@@ -12,7 +12,7 @@ Estória gerada pelo ChatGpt
 O video ficou animado e os movimentos do narrador são bons
 [o video](https://vimeo.com/944533328?share=copy)
 
-## Reflexão
+## Processo de Criação
     Pretendia usar somente meu rosto com minha voz, mas houve mudança na ElevenLabs para clonagem de voz, 
 então usei uma voz, para não gravar a estória usando recurso do D-ID e errar, nem usar os caracteres também 
 da plataforma.
